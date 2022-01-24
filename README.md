@@ -1,5 +1,6 @@
 # GraphCMS Headless Blog
-### [Live Site]()
+### [Live Site](https://programing-school-blog.vercel.app/)
+### [Readme](https://programing-school.github.io/Programing-School-Blog/)
 
 ![GraphCMS Headless Blog](https://i.ibb.co/NmnJnKD/image.png)
 
