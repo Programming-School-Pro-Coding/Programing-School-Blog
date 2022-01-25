@@ -10,11 +10,15 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <meta name="viewport" content="width=device-width,minimum-scale=1, initial-scale=1" />
+          <meta
+            name="viewport"
+            content="width=device-width,minimum-scale=1, initial-scale=1"
+          />
           <title>Programing-School | Blog</title>
           <link rel="icon" href="./channels4_profile.jpg" />
           <link rel="icon" href="../public/channels4_profile.jpg" />
           <link rel="icon" href="/public/channels4_profile.jpg" />
+          <script src="https://cdn.tailwindcss.com" />
         </Head>
         <body>
           <Main />
