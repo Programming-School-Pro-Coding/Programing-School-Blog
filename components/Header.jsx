@@ -1,3 +1,5 @@
+// Created with ❤ by Programming School
+
 import React, { useState, useEffect } from 'react';
 
 import Link from 'next/link';
